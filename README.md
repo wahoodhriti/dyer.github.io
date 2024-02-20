@@ -1,1 +1,39 @@
 # dyer.github.io
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Dhriti Iyer</h1>
+<h2>Curriculum Vitae</h2>
+<h3>University of California, Irvine</h3>
+<h3>B.S. Public Health Sciences</h3>
+
+<br>
+
+<h4>Objective</h4>
+<p>
+Personable fourth-year public health sciences student with dozens of classroom hours in public health and science-related courses.
+
+Seeking to leverage experience gained while assisting in research at Hopfer Lab
+</p>
+
+<br>
+
+<h4>Technical Skills</h4>
+<p>
+<b>Applications:</b> Microsoft office, adobe creative suite, google suite
+</p>
+
+<p> 
+<b>Writing Proficiency:</b> Lab report, multi-modal research paper, literature review, research proposal
+</p>    
+
+<p>
+<b>Research:</b> qualitative data analysis (coding), quantitative data analysis, data entry, data cleaning, statistical analysis
+</p>
+
+<p>
+<b>Other:</b> French, fund raising, web design, graphic design, project planning, project management
+</p>
+</body>
+</html>
